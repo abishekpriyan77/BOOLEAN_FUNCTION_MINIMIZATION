@@ -55,12 +55,10 @@ Hardware – PCs, Cyclone II , USB flasher
 **RegisterNumber:212224230005**
 
 
-**RTL realization**
+**RTL realization Output:**
 
-**Output:**
 ![Screenshot 2025-04-15 111943](https://github.com/user-attachments/assets/bae98f50-ab78-4776-9271-a0891bc121f2)
 ![Screenshot 2025-04-15 112026](https://github.com/user-attachments/assets/be220486-8011-483d-95a5-8c75ab65e028)
-
 
 **RTL Timing Diagram**
 ![exp2 1](https://github.com/user-attachments/assets/7d6d8aa7-7b94-439f-a1ab-66067ee5db1a)
