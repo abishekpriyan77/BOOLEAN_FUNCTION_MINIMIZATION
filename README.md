@@ -58,6 +58,13 @@ Hardware – PCs, Cyclone II , USB flasher
 **RTL realization Output:**
 
 ![Screenshot 2025-04-15 111943](https://github.com/user-attachments/assets/bae98f50-ab78-4776-9271-a0891bc121f2)
+
+
+
+
+
+
+
 ![Screenshot 2025-04-15 112026](https://github.com/user-attachments/assets/be220486-8011-483d-95a5-8c75ab65e028)
 
 **RTL Timing Diagram**
